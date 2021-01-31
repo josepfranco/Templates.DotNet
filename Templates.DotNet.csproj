@@ -13,10 +13,13 @@
 
     <VersionPrefix>1.0.0</VersionPrefix>
     <VersionSuffix>$(VersionSuffix)</VersionSuffix>
+    <RepositoryUrl>https://github.com/josepfranco/Templates.DotNet</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
 
     <IncludeContentInPack>true</IncludeContentInPack>
     <IncludeBuildOutput>false</IncludeBuildOutput>
     <ContentTargetFolders>content</ContentTargetFolders>
+    <NoDefaultExcludes>true</NoDefaultExcludes>
     <NoWarn>$(NoWarn);NU5128</NoWarn>
   </PropertyGroup>
 
