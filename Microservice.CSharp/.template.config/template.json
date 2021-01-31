@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "José Franco",
+  "classifications": [ "Common", "Microservices" ],
+  "identity": "Microservice.CSharp",
+  "name": "Microservice C# Boilerplate",
+  "shortName": "microservice",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "Microservice.CSharp",
+  "preferNameDirectory": true
+}
