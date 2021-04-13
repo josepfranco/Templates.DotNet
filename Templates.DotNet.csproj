@@ -25,6 +25,7 @@
 
   <ItemGroup>
     <Content Include="Microservice.CSharp\**\*" Exclude="Microservice.CSharp\**\bin\**;Microservice.CSharp\**\obj\**" />
+    <Content Include="Library.CSharp\**\*" Exclude="Library.CSharp\**\bin\**;Library.CSharp\**\obj\**" />
     <Compile Remove="**\*" />
   </ItemGroup>
 

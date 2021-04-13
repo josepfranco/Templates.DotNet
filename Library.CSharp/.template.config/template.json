@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "José Franco",
+  "classifications": [ "Common", "Library" ],
+  "identity": "Library.CSharp",
+  "name": "Library C# Boilerplate",
+  "shortName": "library",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "Library.CSharp",
+  "preferNameDirectory": true
+}
